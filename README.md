@@ -5,6 +5,6 @@ This is my personal LinkedIn profile dashboard using Excel and [Tableau](https:/
 
   **2. Data Cleaning and Preparation**:Before visualizing the data, I performed data cleaning and preparation tasks within **Excel**, including removing duplicates, standardizing formats, correcting errors, and ensuring consistency across the data. I connect these data together using the primary key: Date connected on. 
 
-  **3. Data Visualization with Tableau**: Once my data is cleaned and prepared, I utilized **Tableau** to create interactive and insightful visualization. This could involve tracking my connections, and the companies I follow, analyzing the growth of my network, identifying influential connections, and detecting patterns in my connection activity. 
+  **3. Data Visualization with Tableau**: I utilized **Tableau** to create interactive and insightful visualization. This could involve tracking my connections, and the companies I follow, analyzing the growth of my network, identifying influential connections, and detecting patterns in my connection activity. 
 
   This project allowed me to gain insights into my network, track my interactions, and present my LinkedIn profile in a more compelling and meaningful way.
